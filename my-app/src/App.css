@@ -42,3 +42,9 @@
 .black {
   background-color: red;
 }
+
+button,
+span {
+  font-size: 3rem;
+  margin: 0px 40px;
+}
